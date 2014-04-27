@@ -1,0 +1,3 @@
+需要加载jnetpcap.dll到本地dll（native）,区分32位与64位.
+路径：
+Java Build Path->Source->common_net_x64/src->Native library location
